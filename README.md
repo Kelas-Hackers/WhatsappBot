@@ -4,11 +4,11 @@ Program ini di buat untuk mengirimkan Pesan Brutal secara install. Pengguna dapa
 
 ## Cara Menjalankan Program
 ```
-apt-get install python
-apt-get install python3
-apt-get install git
-git clone https://github.com/Kelas-Hackers/WhatsappBot
-cd WhatsappBot
-python3 wabot.py
+$ apt-get install python
+$ apt-get install python3
+$ apt-get install git
+$ git clone https://github.com/Kelas-Hackers/WhatsappBot
+$ cd WhatsappBot
+$ python3 wabot.py
 
 ```

@@ -12,3 +12,8 @@ $ cd WhatsappBot
 $ python3 wabot.py
 
 ```
+
+```From World```
+<noscript><a href="https://paypal.me/indonimous"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript><br/>
+```From Indonesian```
+<noscript><a href="https://sociabuzz.com/rivalid/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
